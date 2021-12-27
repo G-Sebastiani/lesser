@@ -5,7 +5,7 @@
 ; /_/   \_\____/|_|  |_|  |_____|_|_| |_|\__,_/_/\_\   /_/\_\\___/   |_|
 ;
 ; This file has been cut down to only contain constants and macros
-; needed by NoCat/lesser.
+; needed by "rat.asm".
 ;
 ; Syscall:
 ;==================================================================
